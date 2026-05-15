@@ -21,7 +21,6 @@
 - [Dataset](#-dataset)
 - [Models](#-models)
 - [Results](#-results)
-- [Credits](#-credits)
 - [License](#-license)
 
 ---
@@ -176,12 +175,6 @@ jupyter notebook "notebooks/Emotions Classification using ML and DL.ipynb"
 > Training metrics are available inside the notebook. Key observations:
 - **Logistic Regression** achieves strong baseline performance with fast inference — ideal for the real-time Streamlit app.
 - **LSTM** captures sequential context and generally improves recall on minority emotion classes (e.g., Surprise).
-
----
-
-## 👤 Credits
-
-Developed by **Noor Saeed**
 
 ---
 
